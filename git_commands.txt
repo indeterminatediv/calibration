@@ -1,0 +1,12 @@
+git init - Initializes a new Git repository.
+git clone - Makes a copy of an existing Git repository.
+git add - Adds one or more files to the staging area.
+git commit - Records changes to the repository.
+git diff - Shows the differences between versions of a file.
+git reset - Discards commits, moving the branch pointer to a previous commit.
+git stash - Temporarily saves changes that have not been committed.
+git branch - Manages branches in the repository.
+git checkout - Switches between branches or restores files.
+git merge - Combines two branches.
+git push - Sends local commits to a remote repository.
+git pull - Fetches and merges changes from a remote repository.
